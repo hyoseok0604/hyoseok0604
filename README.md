@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyoseok)](https://solved.ac/profile/hyoseok)
-[![CodeForces Profile](https://cf.leed.at?id=hyoseok)](https://codeforces.com/profile/hyoseok)
+<div align="center">  
+<h3>Solved.ac</h3>  
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoseok)](https://solved.ac/hyoseok)  
+
+<h3>CodeForces</h3>  
+
+[![CodeForces](https://cf.leed.at?id=hyoseok)](https://codeforces.com/profile/hyoseok)  
+
+</div>
