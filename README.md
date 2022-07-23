@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyoseok)
+[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyoseok)](https://solved.ac/profile/hyoseok)
+[![CodeForces Profile](https://cf.leed.at?id=hyoseok)](https://codeforces.com/profile/hyoseok)
