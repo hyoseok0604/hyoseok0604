@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![CodeForces Profile](https://cf.leed.at?id=hyoseok)](https://codeforces.com/profile/hyoseok)
+
 <!--
 **hyoseok0604/hyoseok0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
